@@ -4,8 +4,8 @@ Switch Tabs
 
 ## 选项卡
 
-为选项卡添加出`click`事件
-为选项卡高亮，增加`addClass`
+- 为选项卡添加出`click`事件
+- 为选项卡高亮，增加`addClass`
 
 ```javascript
 	$('selected').click(function(){
@@ -16,10 +16,9 @@ Switch Tabs
 
 ## 内容区
 
-全部隐藏
-
-通过click获取元素的index()值来显示第n个内容区块
+- 全部隐藏
+- 通过click获取元素的index()值来显示第n个内容区块
 
 ## 关于
-email: (renqunai7hoo#gmail.com, 把#换成@)
-github: [ai7hoo](http://github.com/ai7hoo)
+- email: (renqunai7hoo#gmail.com, 把#换成@)
+- github: [ai7hoo](http://github.com/ai7hoo)
