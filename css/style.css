@@ -1,0 +1,37 @@
+.container {
+	padding-top: 20px;
+}
+.tabs_title {
+	width: 100%;
+	height: 30px;
+}
+.tabs_title span {
+	display: block;
+	float: left;
+	padding: 0 10px;
+	border: 1px solid #aaa;
+	border-left: none;
+	cursor: pointer;
+}
+.tabs_title span:first-child {
+	border-left: 1px solid #aaa;
+}
+.tabs_title span.cursor {
+	background: #eee;
+}
+.tabs_items {
+	width: 100%;
+	height: 200px;
+	background: #eee;
+	position: relative;
+	overflow: hidden;
+}
+.tabs_item {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: #eee;
+	display: none;
+}
