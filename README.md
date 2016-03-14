@@ -20,5 +20,5 @@ Switch Tabs
 - 通过click获取元素的index()值来显示第n个内容区块
 
 ## 关于
-- email: (renqunai7hoo#gmail.com, 把#换成@)
+- email: (renqunai7hoo#gmail.com)
 - github: [ai7hoo](http://github.com/ai7hoo)
